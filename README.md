@@ -16,8 +16,7 @@ Webmail采用FastCGI、XHTML、AJAX、ZIP压缩、非对称数字证书等技术
 而不必随身携带证书密钥，即便是临时借用他人的电脑，也可以放心的使用Hoda-Webmail收发安全邮件，不用担心密钥被盗。
 天然支持防伪造、防篡改功能。
 
-![](https://raw.githubusercontent.com/lz9168/HodaESMS/master/snaps/w1.png)     
-![](https://raw.githubusercontent.com/lz9168/HodaESMS/master/snaps/w3.png)
+![](https://raw.githubusercontent.com/lz9168/HodaESMS/master/snaps/w1.png)  ![](https://raw.githubusercontent.com/lz9168/HodaESMS/master/snaps/w3.png)
 
 ### 智能化全自动安装维护
 系统会自动检测硬盘类型、数量，智能识别是否可以创建并使用RAID，真正免除了系统安装、调试的麻烦。
@@ -26,8 +25,7 @@ Webmail采用FastCGI、XHTML、AJAX、ZIP压缩、非对称数字证书等技术
 强大的菜单化控制台管理工具和基于WEB的管理工具，使日常管理维护工作变得更简便、更轻松、更高效。
 管理员不必学习复杂的操作系统维护技术，只要会上网，就会使用管理工具，不用担心发生误操作事故。
 
-![](https://raw.githubusercontent.com/lz9168/HodaESMS/master/snaps/m3.png)    
-![](https://raw.githubusercontent.com/lz9168/HodaESMS/master/snaps/c1.png)
+![](https://raw.githubusercontent.com/lz9168/HodaESMS/master/snaps/m4.png)  ![](https://raw.githubusercontent.com/lz9168/HodaESMS/master/snaps/c1.png)
 
 ### 去中心化的证书发布管理机制
 取消CA证书管理中心，每个用户自主管理各自的证书，避免因CA原因造成的任何安全问题。
